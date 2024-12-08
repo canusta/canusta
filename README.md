@@ -1,16 +1,15 @@
-## Hi there 👋
+- 🔭 I’m currently working on new NFT.RefikAnadol.com
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on innovative web projects
+- 💬 Ask me about my paintings IG/@canusta.paintings
+- 📫 How to reach me: x/@canusta
+- ⚡ Fun fact: I'm a professional swing dancer
 
-<!--
-**canusta/canusta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My personal website:
+- [CanUsta.com](https://canusta.com)
 
-Here are some ideas to get you started:
+- My team website:
+- [Common Studio London](https://common.studio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- One of my side projects:
+- [Swing Out Istanbul](https://swingoutistanbul.com)
