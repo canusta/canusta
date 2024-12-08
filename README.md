@@ -5,11 +5,6 @@
 - 📫 How to reach me: x/@canusta
 - ⚡ Fun fact: I'm a professional swing dancer
 
-- My personal website:
-- [CanUsta.com](https://canusta.com)
+- My personal website: [CanUsta.com](https://canusta.com)
 
-- My team website:
-- [Common Studio London](https://common.studio)
-
-- One of my side projects:
-- [Swing Out Istanbul](https://swingoutistanbul.com)
+- My team website: [Common Studio London](https://common.studio)
